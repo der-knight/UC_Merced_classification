@@ -1,9 +1,9 @@
 # UC_Merced_classification  
 
 Mobile net based classification for UC merced data   
-## Accuracy metrics
+# Accuracy metrics
 Accuracy: 0.97
-
+# Model Outputs
 ![Model output](https://github.com/der-knight/UC_Merced_classification/blob/main/output.png)
 
 ## Getting data
