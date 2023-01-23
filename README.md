@@ -2,7 +2,7 @@
 
 Mobile net based classification for UC merced data    
 
-
+![https://github.com/der-knight/UC_Merced_classification/blob/main/output.png]
 
 ## Getting data
 Go to http://weegee.vision.ucmerced.edu/datasets/landuse.html
