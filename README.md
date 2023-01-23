@@ -4,7 +4,7 @@ Mobile net based classification for UC merced data
 # Accuracy metrics
 Accuracy: 0.97
 # Model Outputs
-![Model output](https://github.com/der-knight/UC_Merced_classification/blob/main/output.png)
+![Model output](https://github.com/der-knight/UC_Merced_classification/blob/main/helper/output.png)
 
 ## Getting data
 Go to http://weegee.vision.ucmerced.edu/datasets/landuse.html
