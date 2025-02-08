@@ -1,6 +1,4 @@
 # UC_Merced_classification  
-[![Video Title](https://img.youtube.com/vi/6pGug9B1Vvw/0.jpg)](https://www.youtube.com/watch?v=6pGug9B1Vvw)
-
 Mobile net based classification for UC merced data   
 # Accuracy metrics
 Accuracy: 0.97
