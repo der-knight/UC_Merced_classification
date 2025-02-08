@@ -1,5 +1,5 @@
 # UC_Merced_classification  
-<video src='[https://www.youtube.com/watch?v=nfUGjZhq0IM](https://www.youtube.com/watch?v=nfUGjZhq0IM)' width=180/>
+<video src='[https://drive.google.com/file/d/1FfVA9tcaHfQgAw_9uRR7vBNZDQ9M1bXz/view?usp=sharing](https://drive.google.com/file/d/1FfVA9tcaHfQgAw_9uRR7vBNZDQ9M1bXz/view?usp=sharing)' width=180/>
 
 Mobile net based classification for UC merced data   
 # Accuracy metrics
